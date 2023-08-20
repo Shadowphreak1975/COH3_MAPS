@@ -19,8 +19,8 @@ There are 5 waves to this map (Sequences)
 
 PB_Supply_Missions - Starts the mission to spawn supply trucks.
 
-PB_INTRO1 - Starts Wave 1
-PB_ATTACK_SEQ... - What entities are attacking, and loops
+PB_INTRO1 - Starts Wave 1.
+PB_ATTACK_SEQ... - What entities are attacking, and loops.
 PB_WIN_SEQ... - How long match goes.
 
 this is continued through to wave 5.
